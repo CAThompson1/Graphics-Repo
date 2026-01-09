@@ -1,0 +1,22 @@
+﻿  ExtraCreditWeek1.cpp
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(27,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(28,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(31,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(39,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(62,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(63,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(76,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(77,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterFunctions.h(94,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  RasterSurface.cpp
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterSurface.cpp(110,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\ExtraCreditWeek1\RasterSurface.cpp(110,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ExtraCreditWeek1.vcxproj -> C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek1\x64\Release\ExtraCreditWeek1.exe
