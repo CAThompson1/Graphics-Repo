@@ -1,0 +1,6 @@
+﻿  ExtraCreditWeek2.cpp
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek2\ExtraCreditWeek2\RasterFunctions.h(43,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek2\ExtraCreditWeek2\RasterFunctions.h(46,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek2\ExtraCreditWeek2\RasterFunctions.h(48,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek2\ExtraCreditWeek2\RasterFunctions.h(49,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ExtraCreditWeek2.vcxproj -> C:\Users\Caedan Thompson\Desktop\ExtraCreditWeek2\x64\Debug\ExtraCreditWeek2.exe
