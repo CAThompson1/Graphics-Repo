@@ -1,0 +1,10 @@
+﻿  GraphicsCaedanThompsonLab2.cpp
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(118,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(119,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(132,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(133,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(140,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(141,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(154,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2\GraphicsCaedanThompsonLab2.cpp(155,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GraphicsCaedanThompsonLab2.vcxproj -> C:\Users\Caedan Thompson\Desktop\GraphicsCaedanThompsonLab2\x64\Debug\GraphicsCaedanThompsonLab2.exe
